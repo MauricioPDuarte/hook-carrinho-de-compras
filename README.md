@@ -14,7 +14,7 @@
 </p>
 
 
-![Alt Text](https://github.com/MauricioPDuarte/hook-carrinho-de-compras/blob/main/hook-carrinho.png?raw=true)
+![Alt Text](https://github.com/MauricioPDuarte/hook-carrinho-de-compras/blob/master/hook-carrinho.png)
 
 ## :page_with_curl: Sobre
 Desafio proposto pelo Ignite, da Rocketseat, com objetivo de colocar em prática o que foi passado durente as aulas sobre hooks no ReactJS. 
