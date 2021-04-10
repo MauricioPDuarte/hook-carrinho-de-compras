@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    Desafio - Criando hook de carrinho de compras
+    Desafio - Criando hook carrinho de compras
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="#books-requisitos">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-iniciando-front-end">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-iniciando-server">Server</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iniciando-o-servidor">Server</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dart-iniciando-os-testes">Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -69,7 +69,7 @@ Para verificar se o objetivo do desafio foi completado com sucesso, o estudante 
   $ yarn server
 ```
 
-## :dart: Iniciando os testes
+## :wrench: Iniciando os testes
 ```bash
   # Rodar os testes
   $ yarn test
