@@ -13,8 +13,8 @@
   <a href="#dart-iniciando-os-testes">Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p style="text-align: center;">
-    ![Alt Text](https://github.com/MauricioPDuarte/hook-carrinho-de-compras/blob/master/hook-carrinho.png)
+<p align="center">
+   <img src="https://github.com/MauricioPDuarte/hook-carrinho-de-compras/blob/master/hook-carrinho.png"> 
 </p>
 
 ## :page_with_curl: Sobre
