@@ -72,7 +72,9 @@ export function CartProvider({ children }: CartProviderProps): JSX.Element {
     try {
       const updatedCard = [...cart];
 
-      const productIndexExists = updatedCard.findIndex(product => product.id == productId);
+      const productIndexExists = updatedCard.findIndex(product => product.id === productId);
+
+      console.log(productIndexExists)
 
       if(productIndexExists < 1){
         toast.error("Erro na remoção do produto");
